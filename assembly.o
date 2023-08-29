@@ -1,0 +1,8 @@
+global .start
+.start:
+	mov $rax, 421
+	mov $rax, 33
+	mov $rax, 0
+	mov $rax, 33
+	mov $rax, 60
+	
